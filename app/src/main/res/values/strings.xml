@@ -1,0 +1,21 @@
+<resources>
+    <string name="HungryCaterpillarStrings">HungryCaterpillar</string>
+    <string name="title">"THE VERY HUNGRY CATERPILLAR"</string>
+    <string name="author">by Eric Carle</string>
+    <string name="p1">In the light of the moon a little egg lay on a leaf. </string>
+    <string name="p2"> One Sunday morning, the warm sun came up and POP! - Out of the egg came a tiny and very hungry caterpillar. </string>
+    <string name="p3">He started to look for some food. On Monday he ate through one apple, But he was still hungry. </string>
+    <string name="p4">On Tuesday, he ate through two pears, But he was still hungry. </string>
+    <string name="p5">On Wednesday, he ate through three plums, But he was still hungry. </string>
+    <string name="p6">On Thursday, he ate through four strawberries, But he was still hungry. </string>
+    <string name="p7">On Friday, he ate through five oranges, But he was still hungry. </string>
+    <string name="p8">On Saturday he ate through one piece of chocolate cake, one ice-cream cone, one pickle, one slice of swiss cheese,
+    one slice of salami, one lollipop, one piece of cherry pie, one sausage,
+    one cupcake, and one slice of watermelon. That night he had a stomachache! </string>
+    <string name="p9">The next day was Sunday again. The caterpillar ate through one nice green leaf, and after that he felt much better.</string>
+    <string name="p10">But now he wasn\'t hungry anymore. And he wasn\'t a little caterpillar anymore. He was a big fat caterpillar. </string>
+    <string name="p11">He built a small house around himself, called a Cocoon, And he stayed inside for more than two weeks. </string>
+    <string name="p12">Then he nibbled a hole in the cocoon, pushed his way out, and  </string>
+    <string name="p13">He was a beautiful butterfly. </string>
+    <string name="end">The End </string>
+</resources>
